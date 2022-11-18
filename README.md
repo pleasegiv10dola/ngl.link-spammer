@@ -5,7 +5,7 @@ NGL / ngl.link spammer
 # _How to use?_
 
 **Run  install.bat
-Then open config.json 
+Then open config.json \n
 Then add the username that you get after the ngl.link url  EXAMPLE : {ngl.link/monkey} so monkey is the username.
 Then Add the text you would like to spam
 then simply, Run run.bat**
