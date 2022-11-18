@@ -1,4 +1,4 @@
-import json, requests, colorama, secrets, asyncio, os
+import json, requests, colorama, secrets, os
 from threading import Thread
 count = 0
 
@@ -6,7 +6,7 @@ a = open("config.json", "r", encoding="utf-8")
 p = json.load(a)
 
 user = p["user"]
-text = p["text"] + secrets.token_hex(16)
+text = p["text"] + " " + secrets.token_hex(16)
 
 def title():
     os.system(f"title NGL Spammer by dart sent: {count} currently spamming @{user}")
