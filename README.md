@@ -8,7 +8,7 @@ NGL / ngl.link spammer
 Then open config.json 
 Then add the username that you get after the ngl.link url  EXAMPLE : {ngl.link/monkey} so monkey is the username.
 Then Add the text you would like to spam
-then simply, Run run.bat
+then simply, Run run.bat**
 
 # _Common errors_
 if user is not getting any notifications/messages just rerun the script and it will most likely fix it.
